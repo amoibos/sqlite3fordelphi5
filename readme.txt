@@ -1,3 +1,8 @@
+9 February 2018
+- Converted to Delphi 5
+- Added basic UTF8 support
+- Fix bug which causes exception during casting(INTEGER != integer)
+
 4 February 2011
 - Added support for SQLite Backup API. See example in uTestSqlite.pas
 - Recompiled DLL with latest SQLite 3.7.5. Compiled with Visual C++ 10 but with static linking; runs OK on Windows XP
